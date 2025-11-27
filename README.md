@@ -1,7 +1,11 @@
 #Brute-force-com-medusa-kali-Metasploitable-2-DVWA-
-##Simulação de ataque força bruta: Kali e medusa   
+
+##Simulação de ataque força bruta: Kali e medusa  
+
 ##Teste de invasão básico com força bruta e enumeração usando a ferramenta medusa, totalmente em ambiente controlado
+
 *** Descrição do Desafio***
+
 Implementar, documentar e compartilhar um projeto prático utilizando Kali Linux e a ferramenta Medusa, em conjunto com ambientes vulneráveis (por exemplo, Metasploitable 2 e DVWA), para simular cenários de ataque de força bruta e exercitar medidas de prevenção.
 
 Configurar o ambiente: duas VMs (Kali Linux e Metasploitable 2) no VirtualBox, com rede interna (host-only).
